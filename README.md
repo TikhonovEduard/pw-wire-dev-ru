@@ -1,6 +1,6 @@
 # Русский языковой пакет для ProcessWire
 
-Полный перевод файлов на русский язык для ProcessWire версии 3.0.177.
+Полный перевод файлов на русский язык для ProcessWire версии 3.0.181.
 
 
 ## Как установить русский языковой пакет
@@ -34,7 +34,7 @@
 
 # Russian Language Pack for ProcessWire
 
-Russian (ru-RU) translation files for ProcessWire 3.0.177
+Russian (ru-RU) translation files for ProcessWire 3.0.181
 
 ## How to Install a Language Pack
 
