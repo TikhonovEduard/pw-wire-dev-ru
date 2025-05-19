@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/themes\/default\/init.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--themes--default--init-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "\u0412\u044b\u0439\u0442\u0438"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "\u0414\u0430"
+        },
+        "6c3e844b0ee2993a4802fa3870103d2b": {
+            "text": "\u0421\u0432\u0435\u0442\u043b\u044b\u0439 \u0440\u0435\u0436\u0438\u043c"
+        },
+        "3924c958175e666737225e86a68ac4b4": {
+            "text": "\u0422\u0435\u043c\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "\u0410\u0432\u0442\u043e"
+        },
+        "f82616b3299cd1da0e38bbeedbb57bcb": {
+            "text": "\u0421\u0432\u0435\u0442\u043b\u044b\u0439\/\u0442\u0435\u043c\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c"
+        },
+        "98e76f2c4ba5107090e507124dc914ab": {
+            "text": "\u0421\u0432\u0435\u0442\u043b\u044b\u0439\/\u0442\u0435\u043c\u043d\u044b\u0439"
+        },
+        "c682bc2be801dcbd40c22b207bc886e4": {
+            "text": "\u041e\u0411\u0420\u0410\u0422\u0418\u0422\u0415 \u0412\u041d\u0418\u041c\u0410\u041d\u0418\u0415: \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044d\u0442\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043f\u0435\u0440\u0435\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0442\u0435\u043c\u043e\u0439 AdminThemeUikit \"\u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e\"."
+        }
+    }
+}
